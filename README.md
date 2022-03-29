@@ -17,7 +17,7 @@ The publishing plan will help journals
 - Improve communications and networking,
 - Diversify the editorial board 
 - Contribute to the education of young researchers
-- become and/or remain sustatainable
+- Become and/or remain sustatainable
 
 The plan needs to integrate as much as possible open science principles such as Open Data, Open peer review or authorship transparency in their publishing processes. While the plan will benefit all, It should consider the specificity of each journal and filed.
 
