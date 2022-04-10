@@ -1,7 +1,7 @@
 # open-publishing-plan
 # Open Access Journals publishing development plan #
 
-*Keywords: open publishing, open access, open peer-review, scholarly communication*
+*Keywords: open publishing, open access, open peer-review, FAIR Data/Software*
 
 ### Key Steps: ###
     Embracing open science principles
