@@ -6,7 +6,7 @@
 ### Key Steps: ###
     Embracing open science principles
     Developing open access journals
-    Sustatinibility
+    Sustatinibility 
 
 **TU Delft OPEN Publishing**, Open Access academic publisher of the TU Delft, publishes Open Access (OA) journals and open (text)-books. The OA journals currently receive not enough support regarding their development. This project aims to bring all OA journals to the same high level of quality expected of any TU Delft product by providing an open publishing developement plan. This project will establish in the long term the identity of TU Delft OPEN Publishing as a trustworthy academic publisher within and beyond TU Delft. The success of the plan is linked to the *open collaboration* of the journal editorial boards. 
 The publishing plan will help journals
