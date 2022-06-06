@@ -13,6 +13,7 @@ The publishing plan will help journals
 - Determine their publishing priorities, 
 - Target the correct and Identify their readership,
 - Evaluate the quality of their publications (Impact), 
+- Implement open science principles in their publishing workflow
 - Consider other publishing options (e.g. special Issues, new article types, publishing peer review comments, cascading),  
 - Improve communications and networking,
 - Diversify the editorial board 
