@@ -60,6 +60,7 @@ Fruitful discussions and exchanges with my mentors Arielle Bennet and Julien Col
 5. Adapt the above for open books and open textbooks
 
 **Stay connected**
+I would love to give back to OLS by staying connect with OLS community and members. I could in firts instance come back as an expert.
 
 ## Lessons Learned ##
 Working open requires a change of mindset
