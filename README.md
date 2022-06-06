@@ -1,5 +1,5 @@
 # open-publishing-plan
-# Open Access Journals publishing development plan: Embracing open science principles#
+# Open Access Journals publishing development plan: Embracing open science principles #
 
 *Keywords: open publishing, open access, open peer-review, FAIR Data/Software*
 
