@@ -23,3 +23,5 @@ The plan needs to integrate as much as possible open science principles such as 
 
 **Overall the plan has to demonstrate its value to the editorial board.**
 
+https://github.com/open-life-science/ols-5/issues/12
+
