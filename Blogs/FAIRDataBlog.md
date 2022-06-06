@@ -7,7 +7,7 @@ Frédérique Belliard
 TU Delft OPEN Publishing, Open Access academic publisher of the TU Delft, publishes Open Access (OA) journals and open textbooks and open books. 
 In most of the OA journals of TU Delft OPEN Publishing there is a lack of integration of open science principles such as Open Data, Open peer review or authorship transparency in their publication processes. It transpires that not every step of the publication workflow is fully described and available. It is necessary for authors to share their data when publishing in our journals. At the same time it is important for authors, reviewers and editors to understand the benefits of FAIR Data in open publishing. We should also provide a toolkit to the journals users to help the implementation of FAIR Data in the publishing workflow. 
 
-The success of the project is linked to the _open collaboration_ of the journal editorial boards.
+**The success of the project is linked to the _open collaboration_ of the journal editorial boards.**
 
 ## Expectations ##
 Learn how to work more openly 
@@ -16,7 +16,7 @@ Improve my communication skills: how to deliver a plan clearly to a diverse comm
 
 
 ## Goal ##
-The initial goal was to make open science principles such as Open Data, Open peer review or authorship transparency part of the publication processes. However after discussions with my mentors it was decided to work on one open science principles at a time. I chose to focus first on Open Data.
+The initial goal was to make open science principles such as **Open Data**, **Open peer review** or **authorship and contributor transparency** part of the publication processes. However after discussions with my mentors it was decided to work on one open science principles at a time. I chose to focus first on Open Data.
 This project aims to embed FAIR DAta in the OA journals publication processes to meet the level of Open quality expected of any TU Delft product falling under the Open Science program . This project will establish in the long term the identity of TU Delft OPEN Publishing as a trustworthy academic publisher within and beyond TU Delft. 
 
 ## FAIR Data: Implementation of data sharing in academic publication workflow for Open Access Journals ##
@@ -53,19 +53,20 @@ Fruitful discussions and exchanges with my mentors Arielle Bennet and Julien Col
  3. Use a Proof of Concept to implement FAIR Data in the publication workflow in a newly launched OA journal
  
 **Long term tasks**
-
 1. Revise publishing workflow if needed
 2. Assess the Proof Of Concept and if successfull apply to other journals
 3. Create a guide for journals users 
 4. Make visuals to highlight benefits of FAIR Data for journals users in open publishing
 5. Adapt the above for open books and open textbooks
 
+**Stay connected**
 
 ## Lessons Learned ##
 Working open requires a change of mindset
 Community is willing to help
+POF and minimum viable product are enough to get a project going
 
 ### Acknowledgements ###
-I would like to thank my two mentors Arielle Bennet and Julien Colomb for dedicating their time to this project and for their valuable guidance. I also would like to thank experts Patricia Herterich, Sara Elgebali and Jez Cope for their advice and for taking the time to talk to me
+I would like to thank my two mentors Arielle Bennet and Julien Colomb for dedicating their time to this project and for their valuable guidance. I also would like to thank experts Patricia Herterich, Sara Elgebali and Jez Cope for their advice and for taking the time to talk to me. Finally I am grateful to the entire OLS team for setting this fantastic program and a special thnak to Emmy Tsang for convincing to join OLS-5.
 
 
