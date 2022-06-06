@@ -20,9 +20,10 @@ The publishing plan will help journals
 - Contribute to the education of young researchers
 - Become and/or remain sustatainable
 
-The plan needs to integrate as much as possible open science principles such as Open Data, Open peer review or authorship transparency in their publishing processes. While the plan will benefit all, It should consider the specificity of each journal and filed.
+The plan needs to integrate as much as possible open science principles such as Open Data, Open peer review or authorship transparency in their publishing processes. While the plan will benefit all. It should consider the specificity of each journal and field.
 
 **Overall the plan has to demonstrate its value to the editorial board.**
 
 https://github.com/open-life-science/ols-5/issues/12
+https://openreview.net/forum?id=3a_5ngWgTyW
 
