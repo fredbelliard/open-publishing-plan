@@ -21,7 +21,7 @@ This project aims to embed FAIR DAta in the OA journals publication processes to
 
 ## FAIR Data: Implementation of data sharing in academic publication workflow for Open Access Journals ##
 
-Discussins and exchanges with my mentors Arielle Bennet and Juline
+Fruitful discussions and exchanges with my mentors Arielle Bennet and Julien Colom and, with the follwing experts Patricia Herterich, Sara Elgebali and Jez Cope resulted in the plan below.
 
 ### Engaging the stakeholders ###
 1. Start with a Proof Of Concep (POC) with one newly launched AO journal and with one established OA journal => POC sucessful the new workflow with open data checkingpoints might be better accepted by the comunity if it is coming from their peer (editors).
@@ -40,18 +40,32 @@ Discussins and exchanges with my mentors Arielle Bennet and Juline
 1. as expert they could perfome the DAS check of every submission
 2. in the case of TU Delft OPEN Publishing => approach TU Datastewards to hear their thoughts and 4TU.Research.Data 
 
-## What needs to be done ##
+## Achievements ##
+1. Identify publishing workflow stages https://github.com/fredbelliard/FAIR-Data-in-Publishing-workflow/issues/2
+2. identify in the workflow check points for data sharing 
+<img width="875" alt="FAIR Data publication workflow" src="https://user-images.githubusercontent.com/100927928/172219426-5a5a8aed-80e7-430f-989b-62223cfcf602.PNG">
 
-For all OA journals, list the steps of the publishing workflows and make a generic workflow.
-Choose how and when to introduce FAIR Data in the workflow
 
+## Next Steps ##
+**Immediate steps**
+ 1. Get feedback from journal editors on the draft workflow
+ 2. Get feedback from Datastewards and 4TU.Research.Data community
+ 3. Use a Proof of Concept to implement FAIR Data in the publication workflow in a newly launched OA journal
+ 
+**Long term tasks**
 
+1. Revise publishing workflow if needed
+2. Assess the Proof Of Concept and if successfull apply to other journals
+3. Create a guide for journals users 
+4. Make visuals to highlight benefits of FAIR Data for journals users in open publishing
+5. Adapt the above for open books and open textbooks
 
 
 ## Lessons Learned ##
 Working open requires a change of mindset
 Community is willing to help
 
-
+### Acknowledgements ###
+I would like to thank my two mentors Arielle Bennet and Julien Colomb for dedicating their time to this project and for their valuable guidance. I also would like to thank experts Patricia Herterich, Sara Elgebali and Jez Cope for their advice and for taking the time to talk to me
 
 
