@@ -12,7 +12,7 @@ Although part of the open science programme, I noticed in most of the OA journal
 ## Expectations ##
 Being part of the Open Science program of the TU Delft, it was important for me to develop Open Science skills but also to understand better the true meaning behind open learship, accessiblity and openess. My main objectives were to
     1. Lead an open project to promote open science principles
-    2. Work openly by learning new skills to build an open project within a complex environment and stakeholders with diverse needs and opinions
+    2. Work more openly by learning new skills to build an open project within a complex environment and stakeholders with diverse needs and opinions
     3. Improve my open communication skills 
          -by sharing knowlege and interacting with different communities
          -by clearly defining my vision and ideas 
@@ -47,13 +47,12 @@ Fruitful discussions and exchanges with my mentors and three experts resulted in
 
 ### Datasteward role ###
 1. As an expert, they could perform the DAS check of every submission
-2. in the case of TU Delft OPEN Publishing => approach TU Datastewards to hear their thoughts and 4TU.Research.Data 
+2. in the case of TU Delft OPEN Publishing => approach TU Datastewards and 4TU.Research.Data community to hear their thoughts.
 
 ## Achievements ##
 1. Identify publication workflow [stages](https://github.com/fredbelliard/FAIR-Data-in-Publishing-workflow/issues/2): 3 stages were identify Submit-Review-Publish
 2. identify in the publication workflow check points for data sharing: 
 <img width="875" alt="FAIR Data publication workflow" src="https://user-images.githubusercontent.com/100927928/172219426-5a5a8aed-80e7-430f-989b-62223cfcf602.PNG">
-
 
 ## Next Steps ##
 **Immediate steps**
@@ -72,22 +71,21 @@ Fruitful discussions and exchanges with my mentors and three experts resulted in
 I would like to give back to the OLS community by staying connect with OLS community and members. I could in first instance come back as an expert.
 
 On a personal level I aim to do the followings:
- 1. Influence the Open Publishing team ways of working to encourage sharing projects and progresses openly, to use (where applicable) Github or Hackmd for collaborative   work and to use alternative open source software.  
- 2. Raise awarness on open science best practices, diversity and inclusion,  community interactions
- 3. Apply the Open leadership skills developed during OLS-5in my daily work
+ 1. Influence the Open Publishing team ways of working to encourage sharing projects and progresses openly, to use (where applicable) Github or Hackmd for collaborative work and to use alternative open source software.  
+ 2. Raise awareness on open science best practices, diversity and inclusion, community interactions
+ 3. Apply the Open leadership skills developed during OLS-5 in my daily work
  4. Continue my [Open Leadership Training](https://mozilla.github.io/open-leadership-training-series/articles/readme/) 
 
 ## Lessons Learned ##
-I have been working for more two years under an 
-Working open requires a change of mindset
-Community is willing to help
-POF and minimum viable product are enough to get a project going
-how to use ope sources tols instad of the proproetry tools
-Github
-access expertise
-communicate skills - clear dfining my goallto get feedback form experst a time is valuable
+At the start of the programme, I was under the impression that I knew what working open mean but I could not be far from the truth. I was also confronted with the fear of sharing a project openly and its consequences. After a few sessions with my mentors and few assigments, I soon realised I had to change my mindset and start from scratch to fully benefits from the program. I did struggled with the description of my vision and wrting dowm the unique value proposition of my project. It was aslo a challenge (and it is still a challenge) to build an on open science project and to ask open feedback from the community. 
+Here is a summary of the lessons learned: 
+        - Working open is a philosophy with values that are useful in every day life 
+        - Defining clearly and briefly the project
+        - Asking feedback from a pool of experts opens horizons and improves the project
+        - Breaking down the project in small projects with aPOC and minimum viable product are enough to get a project going
+        - Time management
 
 ### Acknowledgements ###
-I would like to thank my two mentors Arielle Bennet and Julien Colomb for dedicating their time to this project and for their valuable guidance. I also would like to thank experts Patricia Herterich, Sara Elgebali and Jez Cope for their advice and for taking the time to talk to me. Finally I am grateful to the entire OLS team for setting this fantastic program and a special thnak to Emmy Tsang for convincing to join OLS-5.
+I would like to thank my two mentors Arielle Bennet and Julien Colomb for dedicating their time to this project and for their valuable guidance. I also would like to thank experts Patricia Herterich, Sara Elgebali and Jez Cope for their advice and for taking the time to talk to me. Finally I am grateful to the entire OLS team for setting this fantastic program and a special thank to Emmy Tsang for convincing me to join OLS-5.
 
 
