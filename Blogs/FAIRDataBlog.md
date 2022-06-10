@@ -7,7 +7,7 @@ by Frédérique Belliard
 [TU Delft OPEN Publishing](https://www.tudelft.nl/en/library/open-publishing), the Open Access academic publisher of the TU Delft, publishes Open Access (OA) journals and open textbooks and open books. TU Delft OPEN Publishing is part of the open science program of the TU Delft. The Programme consists of seven interrelated projects: Open Education, Open Access, Open Publishing Platform, FAIR Data, FAIR Software, Open Hardware and Citizen Science. 
 Although part of the open science programme, I noticed in most of the OA journals of the TU Delft OPEN Publishing, there is a lack of integration of [open science principles](https://www.tudelft.nl/open-science) such as Open Data, Open peer review or authorship transparency in their publication processes. It transpires that not every step of the publication workflow is fully described and available. Authors must share their data when publishing in our journals. At the same time, authors, reviewers and editors need to understand the benefits of [FAIR Data](https://www.go-fair.org/fair-principles/) in open publishing. We should also provide a toolkit to the journal users to help the implementation of FAIR Data in the publishing workflow. 
 
-**The success of the project is linked to the _open collaboration_ of the journal editorial boards.**
+> **The success of the project is linked to the _open collaboration_ of the journal editorial boards.**
 
 ## Expectations ##
 Being part of the Open Science program of the TU Delft, it was important for me to develop Open Science skills but also to understand better the true meaning behind open learship, accessiblity and openess. My main objectives were to
@@ -18,10 +18,10 @@ Being part of the Open Science program of the TU Delft, it was important for me 
          -by clearly defining my vision and ideas 
     
    I choose the OLS program for three main reasons: 
-   - the program: it focuses on open science with three principles that are very important to me, sharing, connectnd and empowering
-   - the content: it includes skills, mentoship, tools
-   - the environment: It is safe, diverse and inclusive and that is rare
-   - the length of the program and the doable commitment required
+   *the program: it focuses on open science with three principles that are very important to me, sharing, connectnd and empowering
+   *the content: it includes skills, mentoship, tools
+   *the environment: It is safe, diverse and inclusive and that is rare
+   -the length of the program and the doable commitment required
    
 
 
@@ -77,13 +77,14 @@ On a personal level I aim to do the followings:
  4. Continue my [Open Leadership Training](https://mozilla.github.io/open-leadership-training-series/articles/readme/) 
 
 ## Lessons Learned ##
-At the start of the programme, I was under the impression that I knew what working open mean but I could not be far from the truth. I was also confronted with the fear of sharing a project openly and its consequences. After a few sessions with my mentors and few assigments, I soon realised I had to change my mindset and start from scratch to fully benefits from the program. I did struggled with the description of my vision and wrting dowm the unique value proposition of my project. It was aslo a challenge (and it is still a challenge) to build an on open science project and to ask open feedback from the community. 
+> At the start of the programme, I was under the impression that I knew what working open mean but I could not be far from the truth. I was also confronted with the fear of sharing a project openly and its consequences. After a few sessions with my mentors and few assigments, I soon realised I had to change my mindset and start from scratch to fully benefits from the program. I did struggled with the description of my vision and wrting dowm the unique value proposition of my project. It was aslo a challenge (and it is still a challenge) to build an on open science project and to ask open feedback from the community.
+
 Here is a summary of the lessons learned: 
-        - Working open is a philosophy with values that are useful in every day life 
-        - Defining clearly and briefly the project
-        - Asking feedback from a pool of experts opens horizons and improves the project
-        - Breaking down the project in small projects with aPOC and minimum viable product are enough to get a project going
-        - Time management
+        1. Working open is a philosophy with values that are useful in every day life
+        2. Defining clearly and briefly the project
+        3. Asking feedback from a pool of experts opens horizons and improves the project
+        4. Breaking down the project in small projects with aPOC and minimum viable product are enough to get a project going
+        5. Time management
 
 ### Acknowledgements ###
 I would like to thank my two mentors Arielle Bennet and Julien Colomb for dedicating their time to this project and for their valuable guidance. I also would like to thank experts Patricia Herterich, Sara Elgebali and Jez Cope for their advice and for taking the time to talk to me. Finally I am grateful to the entire OLS team for setting this fantastic program and a special thank to Emmy Tsang for convincing me to join OLS-5.
