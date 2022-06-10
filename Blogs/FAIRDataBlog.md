@@ -18,7 +18,7 @@ Improve my communication skills: how to deliver a plan clearly to a diverse comm
 ## Goal ##
 The initial goal was to make open science principles such as Open Data, Open peer review or authorship and contributor transparency part of the publication processes. However, after discussions with my mentors, it was decided to work on one open science principle at a time. I chose to focus first on Open Data. This project aims to embed FAIR DAta in the OA journals' publication processes to meet the level of Open quality expected of any TU Delft product falling under the Open Science program. This project will establish in the long term the identity of TU Delft OPEN Publishing as a trustworthy academic publisher within and beyond TU Delft.
 
-## FAIR Data: Implementation of data sharing in academic publication workflow for Open Access Journals ##
+## FAIR Data: Implementation of data sharing in the OA journals publication workflow ##
 
 Fruitful discussions and exchanges with my mentors Arielle Bennet and Julien Colomb and, with the following experts Patricia Herterich, Sara Elgebali and Jez Cope resulted in the plan below.
 
@@ -40,8 +40,8 @@ Fruitful discussions and exchanges with my mentors Arielle Bennet and Julien Col
 2. in the case of TU Delft OPEN Publishing => approach TU Datastewards to hear their thoughts and 4TU.Research.Data 
 
 ## Achievements ##
-1. Identify publication workflow stages https://github.com/fredbelliard/FAIR-Data-in-Publishing-workflow/issues/2
-2. identify in the workflow check points for data sharing 
+1. Identify publication workflow [stages](https://github.com/fredbelliard/FAIR-Data-in-Publishing-workflow/issues/2): 3 stages were identify Submit-Review-Publish
+2. identify in the publication workflow check points for data sharing: 
 <img width="875" alt="FAIR Data publication workflow" src="https://user-images.githubusercontent.com/100927928/172219426-5a5a8aed-80e7-430f-989b-62223cfcf602.PNG">
 
 
@@ -52,17 +52,19 @@ Fruitful discussions and exchanges with my mentors Arielle Bennet and Julien Col
  3. Use a Proof of Concept to implement FAIR Data in the publication workflow in a newly launched OA journal
  
 **Long term steps**
-1. Influence the Open Publishing team ways of working to encourage sharing projects and progresses openly, to use (where applicable) Github or Hackmd for collaborative work and to use alternative open source software.  
-2. Apply the Open leadership skills developed during OLS-5in my daily work
-3. Continue my [Open Leadership Training](https://mozilla.github.io/open-leadership-training-series/articles/readme/) 
-4. Revise publishing workflow if necessary
-5. Assess the Proof Of Concept and if successfull apply to other journals
-6. Create a guide for journals users 
-7. Make visuals to highlight benefits of FAIR Data for journals users in open publishing
-8. Adapt the above for open books and open textbooks
+ 1. Revise publishing workflow if necessary
+ 2. Assess the Proof Of Concept and if successfull apply to other journals
+ 3. Create a guide for journals users
+ 4. Make visuals to highlight benefits of FAIR Data for journals users in open publishing
+ 5. Adapt the Implementation of data sharing in th OA journals publication workflow to open access books and open access textbooks.
 
 **Stay connected**
 I would like to give back to the OLS community by staying connect with OLS community and members. I could in first instance come back as an expert.
+
+On a personal level
+1. Influence the Open Publishing team ways of working to encourage sharing projects and progresses openly, to use (where applicable) Github or Hackmd for collaborative work and to use alternative open source software.  
+2. Apply the Open leadership skills developed during OLS-5in my daily work
+3. Continue my [Open Leadership Training](https://mozilla.github.io/open-leadership-training-series/articles/readme/) 
 
 ## Lessons Learned ##
 Working open requires a change of mindset
