@@ -77,16 +77,16 @@ On a personal level I aim to do the followings:
  4. Continue my [Open Leadership Training](https://mozilla.github.io/open-leadership-training-series/articles/readme/) 
 
 ## Lessons Learned ##
-> At the start of the programme, I was under the impression that I knew what working open mean but I could not be far from the truth. I was also confronted with the fear of sharing a project openly and its consequences. After a few sessions with my mentors and few assigments, I soon realised I had to change my mindset and start from scratch to fully benefits from the program. I did struggled with the description of my vision and wrting dowm the unique value proposition of my project. It was aslo a challenge (and it is still a challenge) to build an on open science project and to ask open feedback from the community.
+>At the start of the programme, I was under the impression that I knew what working open mean but I could not be far from the truth. I was also confronted with the fear of sharing a project openly and its consequences. After a few sessions with my mentors and few assigments, I soon realised I had to change my mindset and start from scratch to fully benefits from the program. I did struggled with the description of my vision and wrting dowm the unique value proposition of my project. It was aslo a challenge (and it is still a challenge) to build an on open science project and to ask open feedback from the community.
 
-Here is a summary of the lessons learned: 
-        1. Working open is a philosophy with values that are useful in every day life
-        2. Defining clearly and briefly the project
-        3. Asking feedback from a pool of experts opens horizons and improves the project
-        4. Breaking down the project in small projects with aPOC and minimum viable product are enough to get a project going
-        5. Time management
+Here is a summary of the lessons learned:
+1. Working open is a philosophy with values that are useful in every day life
+2. Defining clearly and briefly the project
+3. Asking feedback from a pool of experts opens horizons and improves the project
+4. Breaking down the project in small projects with aPOC and minimum viable product are enough to get a project going
 
 ### Acknowledgements ###
-I would like to thank my two mentors Arielle Bennet and Julien Colomb for dedicating their time to this project and for their valuable guidance. I also would like to thank experts Patricia Herterich, Sara Elgebali and Jez Cope for their advice and for taking the time to talk to me. Finally I am grateful to the entire OLS team for setting this fantastic program and a special thank to Emmy Tsang for convincing me to join OLS-5.
+I would like to thank my two mentors Arielle Bennet and Julien Colomb for dedicating their time to this project and for their valuable guidance. 
+I also would like to thank experts Patricia Herterich, Sara Elgebali and Jez Cope for their advice and for taking the time to talk to me. Finally I am grateful to the entire OLS team for setting this fantastic program and a special thank to Emmy Tsang for convincing me to join OLS-5.
 
 
