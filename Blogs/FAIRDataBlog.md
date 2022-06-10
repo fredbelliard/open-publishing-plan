@@ -9,7 +9,7 @@ by Frédérique Belliard
 **The success of the project is linked to the _open collaboration_ of the journal editorial boards.**
 
 ## Expectations ##
-TU Delft OPEN Publishing is part of the open science program of the TU Delft. The Programme consists of seven interrelated projects: Open Education, Open Access, Open Publishing Platform, FAIR Data, FAIR Software, Open Hardware and Citizen Science
+TU Delft OPEN Publishing is part of the open science program of the TU Delft. The Programme consists of seven interrelated projects: Open Education, Open Access, Open Publishing Platform, FAIR Data, FAIR Software, Open Hardware and Citizen Science. 
 Learn how to work more openly and make my colleagues work more openly 
 Learning new skills to develop an open project within a complex environment and stakeholders with diverse needs and opinions. 
 Improve my communication skills: how to deliver a plan clearly to a diverse community developing my convincing skills with active listening and logics.
@@ -51,20 +51,23 @@ Fruitful discussions and exchanges with my mentors Arielle Bennet and Julien Col
  2. Get feedback from Datastewards and 4TU.Research.Data community
  3. Use a Proof of Concept to implement FAIR Data in the publication workflow in a newly launched OA journal
  
-**Long term tasks**
-1. Revise publishing workflow if needed
-2. Assess the Proof Of Concept and if successfull apply to other journals
-3. Create a guide for journals users 
-4. Make visuals to highlight benefits of FAIR Data for journals users in open publishing
-5. Adapt the above for open books and open textbooks
+**Long term steps**
+1. use Github more often in my future projects with my colleagues 
+2. Revise publishing workflow if needed
+3. Assess the Proof Of Concept and if successfull apply to other journals
+4. Create a guide for journals users 
+5. Make visuals to highlight benefits of FAIR Data for journals users in open publishing
+6. Adapt the above for open books and open textbooks
 
 **Stay connected**
-I would love to give back to OLS by staying connect with OLS community and members. I could in firts instance come back as an expert.
+I would love to give back to OLS by staying connect with OLS community and members. I could in first instance come back as an expert.
 
 ## Lessons Learned ##
 Working open requires a change of mindset
 Community is willing to help
 POF and minimum viable product are enough to get a project going
+how to use ope sources tols instad of the proproetry tools
+Github
 
 ### Acknowledgements ###
 I would like to thank my two mentors Arielle Bennet and Julien Colomb for dedicating their time to this project and for their valuable guidance. I also would like to thank experts Patricia Herterich, Sara Elgebali and Jez Cope for their advice and for taking the time to talk to me. Finally I am grateful to the entire OLS team for setting this fantastic program and a special thnak to Emmy Tsang for convincing to join OLS-5.
