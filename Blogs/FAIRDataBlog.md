@@ -1,6 +1,6 @@
 
 # Speed Blog:FAIR data check in OA journals publication steps #
-Frédérique Belliard
+by Frédérique Belliard
 
 ## Background ##
 
@@ -9,7 +9,8 @@ Frédérique Belliard
 **The success of the project is linked to the _open collaboration_ of the journal editorial boards.**
 
 ## Expectations ##
-Learn how to work more openly 
+TU Delft OPEN Publishing is part of the open science program of the TU Delft. The Programme consists of seven interrelated projects: Open Education, Open Access, Open Publishing Platform, FAIR Data, FAIR Software, Open Hardware and Citizen Science
+Learn how to work more openly and make my colleagues work more openly 
 Learning new skills to develop an open project within a complex environment and stakeholders with diverse needs and opinions. 
 Improve my communication skills: how to deliver a plan clearly to a diverse community developing my convincing skills with active listening and logics.
 
