@@ -40,27 +40,29 @@ Fruitful discussions and exchanges with my mentors Arielle Bennet and Julien Col
 2. in the case of TU Delft OPEN Publishing => approach TU Datastewards to hear their thoughts and 4TU.Research.Data 
 
 ## Achievements ##
-1. Identify publishing workflow stages https://github.com/fredbelliard/FAIR-Data-in-Publishing-workflow/issues/2
+1. Identify publication workflow stages https://github.com/fredbelliard/FAIR-Data-in-Publishing-workflow/issues/2
 2. identify in the workflow check points for data sharing 
 <img width="875" alt="FAIR Data publication workflow" src="https://user-images.githubusercontent.com/100927928/172219426-5a5a8aed-80e7-430f-989b-62223cfcf602.PNG">
 
 
 ## Next Steps ##
 **Immediate steps**
- 1. Get feedback from journal editors on the draft workflow
+ 1. Get feedback from journal editors on the draft publication workflow
  2. Get feedback from Datastewards and 4TU.Research.Data community
  3. Use a Proof of Concept to implement FAIR Data in the publication workflow in a newly launched OA journal
  
 **Long term steps**
-1. use Github more often in my future projects with my colleagues 
-2. Revise publishing workflow if needed
-3. Assess the Proof Of Concept and if successfull apply to other journals
-4. Create a guide for journals users 
-5. Make visuals to highlight benefits of FAIR Data for journals users in open publishing
-6. Adapt the above for open books and open textbooks
+1. Influence the Open Publishing team ways of working to encourage sharing projects and progresses openly, to use (where applicable) Github or Hackmd for collaborative work and to use alternative open source software.  
+2. Apply the Open leadership skills developed during OLS-5in my daily work
+3. Continue my [Open Leadership Training](https://mozilla.github.io/open-leadership-training-series/articles/readme/) 
+4. Revise publishing workflow if necessary
+5. Assess the Proof Of Concept and if successfull apply to other journals
+6. Create a guide for journals users 
+7. Make visuals to highlight benefits of FAIR Data for journals users in open publishing
+8. Adapt the above for open books and open textbooks
 
 **Stay connected**
-I would love to give back to OLS by staying connect with OLS community and members. I could in first instance come back as an expert.
+I would like to give back to the OLS community by staying connect with OLS community and members. I could in first instance come back as an expert.
 
 ## Lessons Learned ##
 Working open requires a change of mindset
