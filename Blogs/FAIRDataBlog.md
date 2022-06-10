@@ -4,15 +4,25 @@ by Frédérique Belliard
 
 ## Background ##
 
-[TU Delft OPEN Publishing](https://www.tudelft.nl/en/library/open-publishing), the Open Access academic publisher of the TU Delft, publishes Open Access (OA) journals and open textbooks and open books. In most of the OA journals of TU Delft OPEN Publishing, there is a lack of integration of [open science principles](https://www.tudelft.nl/open-science) such as Open Data, Open peer review or authorship transparency in their publication processes. It transpires that not every step of the publication workflow is fully described and available. Authors must share their data when publishing in our journals. At the same time, authors, reviewers and editors need to understand the benefits of [FAIR Data](https://www.go-fair.org/fair-principles/) in open publishing. We should also provide a toolkit to the journal users to help the implementation of FAIR Data in the publishing workflow. 
+[TU Delft OPEN Publishing](https://www.tudelft.nl/en/library/open-publishing), the Open Access academic publisher of the TU Delft, publishes Open Access (OA) journals and open textbooks and open books. TU Delft OPEN Publishing is part of the open science program of the TU Delft. The Programme consists of seven interrelated projects: Open Education, Open Access, Open Publishing Platform, FAIR Data, FAIR Software, Open Hardware and Citizen Science. 
+Although part of the open science programme, I noticed in most of the OA journals of the TU Delft OPEN Publishing, there is a lack of integration of [open science principles](https://www.tudelft.nl/open-science) such as Open Data, Open peer review or authorship transparency in their publication processes. It transpires that not every step of the publication workflow is fully described and available. Authors must share their data when publishing in our journals. At the same time, authors, reviewers and editors need to understand the benefits of [FAIR Data](https://www.go-fair.org/fair-principles/) in open publishing. We should also provide a toolkit to the journal users to help the implementation of FAIR Data in the publishing workflow. 
 
 **The success of the project is linked to the _open collaboration_ of the journal editorial boards.**
 
 ## Expectations ##
-TU Delft OPEN Publishing is part of the open science program of the TU Delft. The Programme consists of seven interrelated projects: Open Education, Open Access, Open Publishing Platform, FAIR Data, FAIR Software, Open Hardware and Citizen Science. 
-Learn how to work more openly and make my colleagues work more openly 
-Learning new skills to develop an open project within a complex environment and stakeholders with diverse needs and opinions. 
-Improve my communication skills: how to deliver a plan clearly to a diverse community developing my convincing skills with active listening and logics.
+Being part of the Open Science program of the TU Delft, it was important for me to develop Open Science skills but also to understand better the true meaning behind open learship, accessiblity and openess. My main objectives were to
+    1. Lead an open project to promote open science principles
+    2. Work openly by learning new skills to build an open project within a complex environment and stakeholders with diverse needs and opinions
+    3. Improve my open communication skills 
+         -by sharing knowlege and interacting with different communities
+         -by clearly defining my vision and ideas 
+    
+   I choose the OLS program for three main reasons: 
+   - the program: it focuses on open science with three principles that are very important to me, sharing, connectnd and empowering
+   - the content: it includes skills, mentoship, tools
+   - the environment: It is safe, diverse and inclusive and that is rare
+   - the length of the program and the doable commitment required
+   
 
 
 ## Goal ##
@@ -20,7 +30,7 @@ The initial goal was to make open science principles such as Open Data, Open pee
 
 ## FAIR Data: Implementation of data sharing in the OA journals publication workflow ##
 
-Fruitful discussions and exchanges with my mentors Arielle Bennet and Julien Colomb and, with the following experts Patricia Herterich, Sara Elgebali and Jez Cope resulted in the plan below.
+Fruitful discussions and exchanges with my mentors and three experts resulted in the plan below.
 
 ### Engaging the stakeholders ###
 1. Start with a Proof Of Concept (POC) with one newly launched AO journal and with one established OA journal => POC successful the new workflow with open data checking points might be better accepted by the community if it is coming from their peer (editors).
@@ -61,17 +71,21 @@ Fruitful discussions and exchanges with my mentors Arielle Bennet and Julien Col
 **Stay connected**
 I would like to give back to the OLS community by staying connect with OLS community and members. I could in first instance come back as an expert.
 
-On a personal level
-1. Influence the Open Publishing team ways of working to encourage sharing projects and progresses openly, to use (where applicable) Github or Hackmd for collaborative work and to use alternative open source software.  
-2. Apply the Open leadership skills developed during OLS-5in my daily work
-3. Continue my [Open Leadership Training](https://mozilla.github.io/open-leadership-training-series/articles/readme/) 
+On a personal level I aim to do the followings:
+ 1. Influence the Open Publishing team ways of working to encourage sharing projects and progresses openly, to use (where applicable) Github or Hackmd for collaborative   work and to use alternative open source software.  
+ 2. Raise awarness on open science best practices, diversity and inclusion,  community interactions
+ 3. Apply the Open leadership skills developed during OLS-5in my daily work
+ 4. Continue my [Open Leadership Training](https://mozilla.github.io/open-leadership-training-series/articles/readme/) 
 
 ## Lessons Learned ##
+I have been working for more two years under an 
 Working open requires a change of mindset
 Community is willing to help
 POF and minimum viable product are enough to get a project going
 how to use ope sources tols instad of the proproetry tools
 Github
+access expertise
+communicate skills - clear dfining my goallto get feedback form experst a time is valuable
 
 ### Acknowledgements ###
 I would like to thank my two mentors Arielle Bennet and Julien Colomb for dedicating their time to this project and for their valuable guidance. I also would like to thank experts Patricia Herterich, Sara Elgebali and Jez Cope for their advice and for taking the time to talk to me. Finally I am grateful to the entire OLS team for setting this fantastic program and a special thnak to Emmy Tsang for convincing to join OLS-5.
