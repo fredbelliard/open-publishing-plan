@@ -39,7 +39,7 @@ Fruitful discussions and exchanges with my mentors and three experts resulted in
 4. Focus and encourage Data Citation https://www.project-freya.eu/en/pid-graph/the-pid-graph rather than DAS which is a standard section in most publications
 5. Provide a template for DAS and datasets Reviewers and examples of dataset citations & DAS
 
-### Data Availability Statement (DAS) ###
+### Data Access Statement (DAS) ###
 1. DAS is often incomplete or in contradiction with FAIR data statement
 2. _Data available upon request_ is NOT acceptable
 3. DAS should include datasets DOI and meaningful metadata
