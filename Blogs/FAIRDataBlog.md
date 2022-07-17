@@ -59,6 +59,7 @@ Fruitful discussions and exchanges with my mentors and three experts resulted in
  1. Get feedback from journal editors on the draft publication workflow
  2. Get feedback from Datastewards and 4TU.Research.Data community
  3. Use a Proof of Concept to implement FAIR Data in the publication workflow in a newly launched OA journal
+ 4. Seek funding to cover the work of checking the Data
  
 **Long term steps**
  1. Revise publishing workflow if necessary
