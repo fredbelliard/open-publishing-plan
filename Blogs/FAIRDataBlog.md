@@ -18,7 +18,7 @@ Being part of the Open Science program of the TU Delft, it was important for me 
          -by clearly defining my vision and ideas 
     
    I choose the OLS program for three main reasons: 
-   *the program: it focuses on open science with three principles that are very important to me, sharing, connectnd and empowering
+   *the program: it focuses on open science with three principles that are very important to me, sharing, connected and empowering
    *the content: it includes skills, mentoship, tools
    *the environment: It is safe, diverse and inclusive and that is rare
    -the length of the program and the doable commitment required
