@@ -39,14 +39,16 @@ Fruitful discussions and exchanges with my mentors and three experts resulted in
 4. Focus and encourage Data Citation https://www.project-freya.eu/en/pid-graph/the-pid-graph rather than DAS which is a standard section in most publications
 5. Provide a template for DAS and datasets Reviewers and examples of dataset citations & DAS
 
+### Metadata Check ###
+
 ### Data Access Statement (DAS) ###
 1. DAS is often incomplete or in contradiction with FAIR data statement
 2. _Data available upon request_ is NOT acceptable
 3. DAS should include datasets DOI and meaningful metadata
 5. DAS template could be useful
 
-### Datasteward role ###
-1. As an expert, they could perform the DAS check of every submission
+### Datasteward/Data manager or curator role ###
+1. As  expert, they could perform the DAS check of every submission
 2. in the case of TU Delft OPEN Publishing => approach TU Datastewards and 4TU.Research.Data community to hear their thoughts.
 
 ## Achievements ##
