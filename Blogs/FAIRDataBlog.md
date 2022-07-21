@@ -56,8 +56,6 @@ Fruitful discussions and exchanges with my mentors and three experts resulted in
 2. identify in the publication workflow check points for data sharing: 
 <img width="875" alt="Open Data in publication workflow" src="https://user-images.githubusercontent.com/100927928/172219426-5a5a8aed-80e7-430f-989b-62223cfcf602.PNG">
 
-![image](https://user-images.githubusercontent.com/100927928/180227365-fd895822-a753-451c-9d2d-18f6b7d088ac.png)
-
 
 ## Next Steps ##
 **Immediate steps**
