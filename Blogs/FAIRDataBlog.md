@@ -55,8 +55,8 @@ Fruitful discussions and exchanges with my mentors and three experts resulted in
 1. Identify publication workflow [stages](https://github.com/fredbelliard/FAIR-Data-in-Publishing-workflow/issues/2): 3 stages were identify Submit-Review-Publish
 2. identify in the publication workflow check points for data sharing: 
 <img width="875" alt="Open Data in publication workflow" src="https://user-images.githubusercontent.com/100927928/172219426-5a5a8aed-80e7-430f-989b-62223cfcf602.PNG">
-<img width="875" src="(https://user-images.githubusercontent.com/100927928/180227365-fd895822-a753-451c-9d2d-18f6b7d088ac.png">
-![image width="875"](https://user-images.githubusercontent.com/100927928/180227365-fd895822-a753-451c-9d2d-18f6b7d088ac.png)
+
+![image](https://user-images.githubusercontent.com/100927928/180227365-fd895822-a753-451c-9d2d-18f6b7d088ac.png)
 
 
 ## Next Steps ##
