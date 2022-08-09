@@ -58,7 +58,7 @@ Fruitful discussions and exchanges with my mentors and three experts resulted in
 <img width="800" alt="Open Data in publication workflow" src="https://user-images.githubusercontent.com/100927928/183632572-19764ad3-de62-47aa-b0a7-7548c78b7a60.png">**
 
    **_Datasets peer-review_**
-<img width="700" alt="Datasets peer-review" src="https://user-images.githubusercontent.com/100927928/183634773-68e11c7d-b36b-4c26-a160-cc79273fff3e.png">
+<img width="700" alt="Datasets peer-review" src="https://user-images.githubusercontent.com/100927928/183636412-2e863fe4-1640-4944-b386-acb8ef17815b.png">
 
 ## Next Steps ##
 **Immediate steps**
