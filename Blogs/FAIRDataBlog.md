@@ -47,14 +47,14 @@ Fruitful discussions and exchanges with my mentors and three experts resulted in
 3. DAS should include datasets DOI and meaningful metadata
 5. DAS template could be useful
 
-### Datasteward/Data manager or curator role ###
+### Datasteward/Data manager/Curator role ###
 1. As  expert, they could perform the DAS check of every submission
 2. in the case of TU Delft OPEN Publishing => approach TU Datastewards and 4TU.Research.Data community to hear their thoughts.
 
 ## Achievements ##
 1. Identify publication workflow [stages](https://github.com/fredbelliard/FAIR-Data-in-Publishing-workflow/issues/2): 3 stages were identify Submit-Review-Publish
 2. identify in the publication workflow check points for data sharing: 
-<img width="875" alt="Open Data in publication workflow" src="https://user-images.githubusercontent.com/100927928/172219426-5a5a8aed-80e7-430f-989b-62223cfcf602.PNG">
+<img width="800" alt="Open Data in publication workflow" src="https://user-images.githubusercontent.com/100927928/172219426-5a5a8aed-80e7-430f-989b-62223cfcf602.PNG">
 
 
 ## Next Steps ##
