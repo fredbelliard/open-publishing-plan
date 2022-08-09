@@ -1,5 +1,6 @@
 
-# Speed Blog: FAIR data check in Open Access journals_Publication Steps #
+# Speed Blog: 
+# FAIR data check in Open Access journals_Publication Steps #
 by Frédérique Belliard
 
 ## Background ##
