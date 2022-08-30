@@ -36,7 +36,7 @@ The initial goal was to make open science principles such as Open Data, Open pee
 Fruitful discussions and exchanges with my mentors and three experts resulted in the plan below.
 
 ### Engaging the stakeholders ###
-1. Start with a Proof Of Concept (POC) with one newly launched AO journal and with one established OA journal => POC successful the new workflow with open data checking points might be better accepted by the community if it is coming from their peer (editors).
+1. Start with a Proof Of Concept (POC) with one newly launched AO journal and with one established OA journal => POC successful: the new workflow with open data checking points might be better accepted by the community if it is coming from their peer (editors).
 2. Consider open data badges https://www.acm.org/publications/artifacts and 
 3. Check Open results of the data badges: Pilot results, Challenges, and Opportunities https://researchdata.springernature.com/posts/open-data-badges-pilot-results-challenges-and-opportunities
 4. Focus and encourage Data Citation https://www.project-freya.eu/en/pid-graph/the-pid-graph rather than DAS which is a standard section in most publications
@@ -87,7 +87,7 @@ On a personal level I aim to do the followings:
  4. Continue my [Open Leadership Training](https://mozilla.github.io/open-leadership-training-series/articles/readme/) 
 
 ## Lessons Learned ##
->At the start of the programme, I was under the impression that I knew what working open mean but I could not be far from the truth. I was also confronted with the fear of sharing a project openly and its consequences. After a few sessions with my mentors and few assigments, I soon realised I needed to change my mindset and start from scratch to fully benefits from the program. I did struggled with the description of my vision and wrting dowm the unique value proposition of my project. It was aslo a challenge (and it is still a challenge) to build an on open science project and to ask open feedback from the community.
+>At the start of the programme, I was under the impression that I knew what working open mean but I could not be far from the truth. I was also confronted with the fear of sharing a project openly and its consequences. After a few sessions with my mentors and few assigments, I soon realised I needed to change my mindset and start from scratch to fully benefits from the program. I struggled with the description of my vision and wrting dowm the unique value proposition of my project. It was aslo a challenge (and it is still a challenge) to build an on open science project and to ask open feedback from the community.
 
 Here is a summary of the lessons learned:
 1. Working open is a philosophy with values that are useful in every day life
