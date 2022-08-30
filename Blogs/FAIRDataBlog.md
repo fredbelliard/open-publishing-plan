@@ -59,7 +59,7 @@ Fruitful discussions and exchanges with my mentors and three experts resulted in
 
    **_Review of datasets_**
    
-[<img width="700" alt="Datasets peer-review" src="https://user-images.githubusercontent.com/100927928/183636412-2e863fe4-1640-4944-b386-acb8ef17815b.png">](https://github.com/fredbelliard/FAIR-Data-in-Publishing-workflow/blob/main/OAJournal%20DataReview%20Process-SubmitReviewPublish.drawio.png)
+![image](https://user-images.githubusercontent.com/100927928/187434630-09ff8123-b924-4d8e-9391-2bed960eb06b.png)
 
 ## Next Steps ##
 **Immediate steps**
