@@ -58,6 +58,7 @@ Fruitful discussions and exchanges with my mentors and three experts resulted in
 [<img width="800" alt="Open Data in publication workflow" src="https://user-images.githubusercontent.com/100927928/183632572-19764ad3-de62-47aa-b0a7-7548c78b7a60.png">**](https://github.com/fredbelliard/FAIR-Data-in-Publishing-workflow/blob/main/OAJournal%20Review%20Process-SubmitReviewPublish.drawio.png)
 
    **_Review of datasets_**
+   
 [<img width="700" alt="Datasets peer-review" src="https://user-images.githubusercontent.com/100927928/183636412-2e863fe4-1640-4944-b386-acb8ef17815b.png">](https://github.com/fredbelliard/FAIR-Data-in-Publishing-workflow/blob/main/OAJournal%20DataReview%20Process-SubmitReviewPublish.drawio.png)
 
 ## Next Steps ##
