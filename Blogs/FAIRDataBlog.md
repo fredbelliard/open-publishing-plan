@@ -87,7 +87,7 @@ On a personal level I aim to do the followings:
  4. Continue my [Open Leadership Training](https://mozilla.github.io/open-leadership-training-series/articles/readme/) 
 
 ## Lessons Learned ##
->At the start of the programme, I was under the impression that I knew what working open mean but I could not be far from the truth. I was also confronted with the fear of sharing a project openly and its consequences. After a few sessions with my mentors and few assigments, I soon realised I needed to change my mindset and start from scratch to fully benefits from the program. I struggled with the description of my vision and wrting dowm the unique value proposition of my project. It was aslo a challenge (and it is still a challenge) to build an on open science project and to ask open feedback from the community.
+>At the start of the programme, I was under the impression that I knew what working open mean but I could not be far from the truth. I was also confronted with the fear of sharing a project openly and its consequences. After a few sessions with my mentors and few assigments, I soon realised I needed to change my mindset and start from scratch to fully benefits from the program. I struggled with the description of my vision and writing down the unique value proposition of my project. It was aslo a challenge (and it is still a challenge) to build an on open science project and to ask open feedback from the community.
 
 Here is a summary of the lessons learned:
 1. Working open is a philosophy with values that are useful in every day life
