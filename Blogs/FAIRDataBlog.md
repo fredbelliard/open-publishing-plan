@@ -62,7 +62,7 @@ Fruitful discussions and exchanges with my mentors and three experts resulted in
 
    **_Review of datasets_**
    
-![image](https://user-images.githubusercontent.com/100927928/187434630-09ff8123-b924-4d8e-9391-2bed960eb06b.png)
+![image](https://user-images.githubusercontent.com/100927928/189919430-faf3af39-ed93-48d4-9bbf-3bb1236ca26f.png)
 
 ## Next Steps ##
 **Immediate steps**
