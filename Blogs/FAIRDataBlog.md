@@ -57,7 +57,8 @@ Fruitful discussions and exchanges with my mentors and three experts resulted in
 ## Achievements ##
 1. Identify publication workflow [stages](https://github.com/fredbelliard/FAIR-Data-in-Publishing-workflow/issues/2): 3 stages were identify Submit-Review-Publish
 2. identify in the publication workflow check points for data sharing: 
-https://github.com/fredbelliard/FAIR-Data-in-Publishing-workflow/blob/main/OAJournal%20Review%20Process-SubmitReviewPublish.png
+![image](https://user-images.githubusercontent.com/100927928/189917312-922f7a01-33ca-424a-9daa-78e360fd1982.png)
+
 
    **_Review of datasets_**
    
